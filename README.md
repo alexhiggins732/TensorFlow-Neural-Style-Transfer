@@ -47,6 +47,40 @@ A few other examples:
 - A scientific study of a turbulent fluid with the style of a abstract blue fluid painting.
 <img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/circle_abstract.png">
 
+
+## More Examples:
+
+- A generated image of Joe Biden applying an anime style image.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/biden-harris.png">
+
+- A generated image of Joe Biden applying an easter egg style image to the same image as above.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/biden-easter-egg.png">
+
+- A generated image of Joe Biden applying an image from a classic cartoon to the same image as above.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/biden-cartoon.png">
+
+- A generated image of Joe Biden applying the change theme to the same image as above
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/biden-change.png">
+
+Now, the same images for Donald Trump.
+
+- A generated image of Donald Trump applying an anime style image.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/trump-anime.png">
+
+- A generated image of Donald Trump applying an easter egg style image to the same image as above.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/trump-easter-egg.png">
+
+- A generated image of Donald Trump applying an image from a classic cartoon to the same image as above.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/trump-cartoon.png">
+
+- A generated image of Joe Biden applying the change theme to the same image as above.
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/trump-change.png">
+
+
+## Fine Tuning:
+
+- You can change the learning rate and the number of iterations to get different results.
+
 ### References:
 
 The Neural Style Transfer algorithm was due to Gatys et al. (2015). Harish Narayanan and Github user "log0" also have highly readable write-ups from which we drew inspiration. The pre-trained network used in this implementation is a VGG network, which is due to Simonyan and Zisserman (2015). Pre-trained weights were from the work of the MathConvNet team. 
