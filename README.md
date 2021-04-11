@@ -1,4 +1,4 @@
-# tfneuralstylestransfer
+# TensorFlow 2.4.1 Neural Style Transfer
 TensorFlow 2.4.1 Neural Style Transfer
 
 This application is a port of the Neural Style Transfer application shown in Andy NG's Coursera Deep Learning specialization.
@@ -21,7 +21,7 @@ Also, if you have issues with packages, see the packages installed in requiremen
 
 You may optionally run pip install to install those packages but those are all packages installed my environment and this application does need them all.
 
-##Usage:
+## Usage:
 
 Modify the `NeuralStyleTransfer.py` script to set the `contentImagePath` and `styleImagePath` according.
 
@@ -31,7 +31,7 @@ Modify the `NeuralStyleTransfer.py` script to set the `contentImagePath` and `st
 
 Note: By default, images must be 400 px wide by 300px high.
 
-
+## Examples:
 After running the application you. generated images will be saved to the `./output` directory something the image presented below on the right:
 
 <img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/louvre_generated.png">
