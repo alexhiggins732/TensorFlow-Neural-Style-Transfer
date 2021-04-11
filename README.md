@@ -39,13 +39,13 @@ After running the application you. generated images will be saved to the `./outp
 A few other examples:
 
 - The beautiful ruins of the ancient city of Persepolis (Iran) with the style of Van Gogh (The Starry Night)
-<img src="NeuralStyleTransferPy/images/perspolis_vangogh.png" >
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/perspolis_vangogh.png" >
 
 - The tomb of Cyrus the great in Pasargadae with the style of a Ceramic Kashi from Ispahan.
-<img src="NeuralStyleTransferPy/images/pasargad_kashi.png">
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/pasargad_kashi.png">
 
 - A scientific study of a turbulent fluid with the style of a abstract blue fluid painting.
-<img src="NeuralStyleTransferPy/images/circle_abstract.png">
+<img src="NeuralStyleTransferPy/NeuralStyleTransfer/images/circle_abstract.png">
 
 ### References:
 
