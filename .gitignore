@@ -10,6 +10,12 @@
 *.userosscache
 *.sln.docstates
 
+# Source pretrained-model
+imagenet-vgg-verydeep-19.mat
+
+#output files
+output
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

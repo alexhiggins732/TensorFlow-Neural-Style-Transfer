@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralStyleTransfer", "NeuralStyleTransfer\NeuralStyleTransfer.pyproj", "{EA3CE9EE-69D2-46B4-A87B-07A561498D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3CE9EE-69D2-46B4-A87B-07A561498D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3CE9EE-69D2-46B4-A87B-07A561498D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2D0F5D-9CC2-4AF9-845B-4335431E0BCB}
+	EndGlobalSection
+EndGlobal
